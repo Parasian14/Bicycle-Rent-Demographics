@@ -1,1 +1,1 @@
-https://bicycle-rent-demographics-dpa1.streamlit.app
+https://bicycle-rent-demographics-dp1.streamlit.app
